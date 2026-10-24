@@ -43,7 +43,7 @@ const CONFIG = {
     ["Timur","The Adams","Lagu yang selalu mengingatkan aku padamu juga hehe.","timur.mp3"],
   ],
   permintaan: "Semoga semua permintaanmu terkabul.",
-  hadiah: {judul:"Katanya Anugrah Prasetyo", teks:"CYNTIAA SAYANGGG, I LOVEE UUU SOOO MUCHHHH BEBEEEEE, SEMOGAAA ULTAH KAMUU YANGG KE 17 INII BISA BERKESAN DI HATIII KAMUUU YAAAA."}
+  hadiah: {judul:"Katanya Anugrah Prasetyo", teks:"CYNTIAA SAYANGGGG, I LOVEE UUU SOOO MUCHHHH BEBEEEEE, SEMOGAAA ULTAH KAMUU YANGG KE 17 INII BISA BERKESAN DI HATIII KAMUUU YAAAA."}
 };
 /* ============================= */
 const ICONS = {
