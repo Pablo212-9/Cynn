@@ -6,28 +6,28 @@ const CONFIG = {
   nama: "Cyntia Risky Antoni", dari: "Anugrah Prasetyo", lahir: "2009-10-22",
   usiaTeks: "Terima kasih sudah menjadi dirimu, dan membiarkan aku ada di sampingmu.",
   timeline: [
-    {icon:"camera", tgl:"2026-05-06", judul:"Pertama Kali Bareng", teks:"Aku gemeter banget waktu itu hehe.", foto:"Cyn1.jpg"},
-    {icon:"coffee", tgl:"2026-05-08", judul:"Kencan Pertama", teks:" Di TSM, Dengan suasana senang dan nyaman bersamamu"},
-    {icon:"heart", tgl:"2026-05-08", judul:"Hari Kita Resmi", teks:"Hari ketika semuanya menjadi lebih indah."},
+    {icon:"camera", tgl:"2026-05-06", judul:"Pertama Kali Bareng", teks:"Aku gemeter banget waktu itu hehe.", foto:"Cyn2.jpg"},
+    {icon:"coffee", tgl:"2026-05-08", judul:"first Date", teks:" Di TSM, Dengan suasana senang dan nyaman bersamamu", foto:"Cyn3.jpg"},
+    {icon:"heart", tgl:"2026-05-08", judul:"Hari Kita Jadian", teks:"Hari ketika semuanya menjadi lebih indah.", foto:"Cyn4.jpg"},
    
-    {icon:"sun", tgl:"2026-05-25", judul:"Momen Favorit", teks:"Pertama kalinya aku ngerasain kebahagiaan di sekolah."},
-    {icon:"ring", tgl:"Hari ini", judul:"Dan Kita Masih di Sini", teks:"Dan aku masih ingin terus menulis cerita ini bersamamu."}
+    {icon:"sun", tgl:"2026-05-25", judul:"Momen Favorit", teks:"Pertama kalinya aku ngerasain kebahagiaan di sekolah.", foto:"Cyn5.jpg"},
+    {icon:"ring", tgl:"Hari ini", judul:"Dan Kita Masih di Sini", teks:"Dan aku masih ingin terus menulis cerita ini bersamamu.", foto:"Cyn6.jpg"}
   ],
   alasan: [
-    ["smile","Senyummu","Senyum kamu membuat hari aku jauh lebih ringan."],
-    ["heart","Hatimu","Kamu peduli dengan tulus, bahkan pada hal-hal kecil."],
-    ["mic","Tawamu","Suara tawamu adalah favoritku."],
-    ["flower","Lembutmu","Cara kamu memperlakukan orang lain membuatku kagum."],
-    ["sun","Semangatmu","Kamu ngebuat aku ingin ikut berusaha lebih baik."],
-    ["moon","Tenangmu","Di dekat kamu, hari yang berat terasa lebih tenang."],
-    ["coffee","Kebersamaan","Hal-hal sederhana terasa istimewa saat bersamamu."],
-    ["guitar","Cerita kita","Semua kenangan kita adalah hal yang paling kusyukuri."],
-    ["gift","Kejutanmu","Kamu selalu tahu cara ngebuat aku tersenyum."],
-    ["ring","Masa depan","Aku ingin melihat banyak tahun lagi bersamamu."]
+    ["smile","Senyummu","Senyum kamu membuat hari aku jauh lebih ringan.","Cyn1.jpg"],
+    ["heart","Hatimu","Kamu peduli dengan tulus, bahkan pada hal-hal kecil.","Cyn7.jpg"],
+    ["mic","Tawamu","Suara tawamu adalah favoritku.","Cyn8.jpg"],
+    ["flower","Lembutmu","Cara kamu memperlakukan orang lain membuatku kagum.","Cyn9.jpg"],
+    ["sun","Semangatmu","Kamu ngebuat aku ingin ikut berusaha lebih baik.","Cyn10.jpg"],
+    ["moon","Tenangmu","Di dekat kamu, hari yang berat terasa lebih tenang.","Cyn11.jpg"],
+    ["coffee","Kebersamaan","Hal-hal sederhana terasa istimewa saat bersamamu.","Cyn12.jpg"],
+    ["guitar","Cerita kita","Semua kenangan kita adalah hal yang paling kusyukuri.","Cyn13.jpg"],
+    ["gift","Kejutanmu","Kamu selalu tahu cara ngebuat aku tersenyum.","Cyn14.jpg"],
+    ["ring","Masa depan","Aku ingin melihat banyak tahun lagi bersamamu.","Cyn15.jpg"]
   ],
   surat: "Teruntuk Cyntiaaa,\n\nNggak kerasa ya waktu berjalan secepat ini. Dari masa-masa kelulusan SMP kemarin sampai sekarang kita udah mulai sibuk dengan dunia baru di SMA SMK, ada banyak banget hal yang berubah. Tapi dari semua itu, ada satu hal yang akan selalu jadi rutinitas favorit aku: dengerin yappingan kamu.\n\nDi antara semua hal yang berubah, kehadiran kamu selalu jadi hal yang paling bikin aku bersyukur. Terima kasih udah selalu ada, udah jadi pacar yang paling pengertian, dan selalu bisa bikin hari-hariku terasa jauh lebih tenang dan menyenangkan. Kebersamaan sama kamu tuh selalu jadi bagian favoritku di setiap minggunya.\n\nSetiap aku denger nama kamu, aku jadi keinget penggalan lirik reff lagu Timur-The Adams\n\nMengingat sekarang kita udah masuk pertengahan Oktober bulannya kamu aku cuma mau curi waktu sebentar buat bilang terima kasih. Terima kasih udah jadi pacar yang pengertian, vokalis yang paling keren, dan partner terbaik di keseharianku.\n\nSemoga kita bisa terus bikin lebih banyak cerita dan melodi yang bagus bareng-bareng ya. Ini yang udah aku siapin selama ini\n\nDari cowok sekaligus gitaris andalanmu,Dari cowok sekaligus gitaris andalanmu,",
   penutup: "Semoga tahun ini membawa semua yang kamu impikan.",
-  galeri: [["camera","Momen pertama"],["heart","Berdua"],["sun","Liburan"],["coffee","Kencan santai"],["mic","Konser kita"],["flower","Favoritku"]],
+  galeri: [["camera","Momen pertama","Cyn2.jpg"],["heart","Berdua","Cyn17.jpg"],["coffee","Date santai","Cyn19.jpg"],["mic","Konser kita","Cyn20.jpg"],["flower","Favoritku","Cyn21.jpg"]],
   kuis: [
     {q:"Di mana kita pertama kali makan bareng?", o:["Depan ruang musik","Ramen Ya!","Solaria"], a:0},
     {q:"Apa makanan favoritku?", o:["Seblak","Nasgor Goreng","Seafood"], a:1},
@@ -35,7 +35,7 @@ const CONFIG = {
     {q:"Apa lagu favorit kita berdua?", o:["Smells like Teen Spirit","Can't Help Falling in Love","Timur"], a:1},
     {q:"Band atau musisi apa yang paling kusuka?", o:["Dewa 19","Padi","Rumahsakit"], a:2}
   ],
-  janji: ["Aku akan selalu mendengarkanmu.","Aku akan terus belajar menjadi lebih baik untuk kamu.","Aku akan ada saat kamu senang maupun lelah.","Aku akan menjaga tawamu.","Aku akan terus memilihmu, setiap hari."],
+  janji: ["Aku akan selalu mendengarkan kamu.","Aku akan terus belajar menjadi lebih baik untuk kamu.","Aku akan ada saat kamu senang maupun lelah.","Aku akan menjaga tawamu.","Aku akan terus memilihmu, setiap hari."],
   lagu: [
     ["Can't Help Falling in Love","Elvis Presley","Lagu pertama yang ngebuat kita jadi lebih deket wkwkkw.","canthelpfallinginlove.mp3"],
     ["You're Still the One","Shania Twain","Lagu yang sama sama kita sukai.","yourestilltheone.mp3"],
